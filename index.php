@@ -8,7 +8,7 @@
 <body>
     <h1>Exercice 1</h1>
     <?php
-    $name = "Max";
+    $name = 'Max';
     echo $name;
     ?>
 </body>
